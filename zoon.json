@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Медицинский центр Династия",
+        "url": "https://spb.zoon.ru/medical/meditsinskij_tsentr_dinastiya_na_ulitse_lenina/",
+        "phone": [
+            "tel:+79813357706"
+        ],
+        "adress": "Санкт-Петербург,  улица Ленина,  5, 2 этаж",
+        "item website": "meddynasty.ru"
+    },
+    {
+        "name": "Центр семейной медицины MedPraxis",
+        "url": "https://spb.zoon.ru/medical/tsentr_semejnoj_meditsiny_medpraxis_v_kudrovo/",
+        "phone": [
+            "tel:+79813368826"
+        ],
+        "adress": "Ленинградская область, Всеволожский район, Заневское городское поселение, деревня Кудрово, Австрийская улица, 4к1",
+        "item website": null
+    },
+    {
+        "name": "Медицинский центр Династия",
+        "url": "https://spb.zoon.ru/medical/meditsinskij_tsentr_dinastiya_na_oktyabrskom_prospekte_vo_vsevolozhske/",
+        "phone": [
+            "tel:+79813371594"
+        ],
+        "adress": "Ленинградская область,  Всеволожск,  Октябрьский проспект,  96А",
+        "item website": "meddynasty.ru"
+    },
+    {
+        "name": "Многопрофильная клиника ЕвроМедика",
+        "url": "https://spb.zoon.ru/medical/mnogoprofilnaya_klinika_evromedika_na_komendantskom_prospekte/",
+        "phone": [
+            "tel:+79813360951"
+        ],
+        "adress": "Санкт-Петербург,  Комендантский проспект,  17 к1",
+        "item website": null
+    },
+    {
+        "name": "Многопрофильная клиника Профимедика",
+        "url": "https://spb.zoon.ru/medical/mnogoprofilnaya_klinika_profimedika_na_bogatyrskom_prospekte/",
+        "phone": [
+            "tel:+79813373045"
+        ],
+        "adress": "Санкт-Петербург,  Богатырский проспект,  64к1",
+        "item website": "profimedika-med.ru"
+    },
+    {
+        "name": "Медицинский центр Династия",
+        "url": "https://spb.zoon.ru/medical/meditsinskij_tsentr_dinastiya_na_ulitse_repischeva/",
+        "phone": [
+            "tel:+79813372071"
+        ],
+        "adress": "Санкт-Петербург,  Репищева улица,  13",
+        "item website": "meddynasty.ru"
+    },
+    {
+        "name": "Многопрофильный медицинский центр МСЧ № 157",
+        "url": "https://spb.zoon.ru/medical/mnogoprofilnyj_meditsinskij_tsentr_msch_157_na_varshavskoj_ulitse/",
+        "phone": [
+            "tel:+79813368173"
+        ],
+        "adress": "Санкт-Петербург,  Варшавская улица,  100",
+        "item website": "msch-157.ru"
+    },
+    {
+        "name": "Семейная клиника МЕДА",
+        "url": "https://spb.zoon.ru/medical/semejnaya_klinika_meda_v_pushkine/",
+        "phone": [
+            "tel:+79813365748"
+        ],
+        "adress": "Санкт-Петербург,  Пушкинский район,  Пушкин,  улица Архитектора Данини,  11/6",
+        "item website": "meda.obiz.ru"
+    },
+    {
+        "name": "Многопрофильная клиника АБИА",
+        "url": "https://spb.zoon.ru/medical/mnogoprofilnaya_klinika_abia_na_prospekte_korolyova/",
+        "phone": [
+            "tel:+79813366059"
+        ],
+        "adress": "Санкт-Петербург,  проспект Королёва,  48к7",
+        "item website": "abia.ru"
+    }
+]
